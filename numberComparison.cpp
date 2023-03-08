@@ -40,7 +40,5 @@ int main()
         return  system("pause \n");
     }
 
-    system("pause");
-
     return 0;
 }
