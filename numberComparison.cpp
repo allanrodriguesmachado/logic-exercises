@@ -31,7 +31,6 @@ int main()
         printf("A - e o maior numero: %i", variableA);
         printf("\n");
         return system("pause \n");
-      
     }
     
     if (!(variableA > variableB))
