@@ -20,7 +20,7 @@ Resolução em C/C++ dos exercícios de Lógica de Programação e Algoritmos da
 Estou resolvendo esta lista para disponibilizar as resoluções como material complementar do meu curso de [Lógica de Programação e Algoritmos com C/C++]().
 
 ## Saiba que
-Como são resoluções para um curso de Lógica de Programação (nível inicante), não foram utilizadas as famosas boas práticas de programação, pois o objetivo é justamente ensinar os fundamentos de lógica, sem adicionar muita complexidade.
+<!-- Como são resoluções para um curso de Lógica de Programação (nível inicante), não foram utilizadas as famosas boas práticas de programação, pois o objetivo é justamente ensinar os fundamentos de lógica, sem adicionar muita complexidade. -->
 
 ## Enunciados
 ### Estruturas sequenciais
