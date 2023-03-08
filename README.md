@@ -26,7 +26,7 @@ Como são resoluções para um curso de Lógica de Programação (nível inicant
 ### Estruturas sequenciais
 #### [Exercises 001](exercises/1-numberComparison.cpp)
 
-Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+Program that takes two numbers and prints the largest of them.
 <!-- 
 #### [Exercicio 002](exercicios/002.cpp)
 
