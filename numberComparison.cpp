@@ -1,5 +1,5 @@
 /*
-    Program that asks for two numbers and prints the larger one.
+    Program that takes two numbers and prints the largest of them.
 */
 #include <iostream>
 
